@@ -1,0 +1,28 @@
+#score {
+    float: left;
+    margin-left: 50px;
+    font-size: 24px;
+}
+
+#timer {
+    float: right;
+    margin-right: 50px;
+    font-size: 24px;
+}
+
+p {
+    font-size: 24px;
+}
+
+h1 {
+    background-color: yellow !important;
+    color: blue !important;
+}
+
+#show_sketch{
+    float:right;
+}
+
+body{
+    background-image:linear-gradient(red 20%, blue 70%);
+}
